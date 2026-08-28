@@ -7,7 +7,7 @@ import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 # ===== КОНФИГ =====
-TOKEN = "ТВОЙ_ТОКЕН"
+TOKEN = "8605143642:AAHE0UQ3Y2A9KX9LW12MxNrX0KUpGjtRJ9U"
 bot = telebot.TeleBot(TOKEN)
 
 # ===== HTTP-ПИНГ ДЛЯ RENDER =====
